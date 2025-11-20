@@ -1,7 +1,11 @@
-## Hi there 👋
+<div align="center">
+    <img src="https://github.com/Adamantium33/Adamantium33/raw/main/assets/banner_1.gif" alt="Welcome to my GitHub Profile Banner" width="100%"/>
+    
+    <h1>Hi there! I'm Shay (Sheniese)</h1>
+    <h2>Cybersecurity Analyst (in training) | Cloud & SOC Enthusiast</h2>
+</div>
 
-# SHENIESE ARACENA-BAEZ
-### Cybersecurity & Networking | SOC Analyst (in training) | Cloud Enthusiast
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/sheniese-a-baez)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/saracena26/)
@@ -11,23 +15,22 @@
 
 ## 📌 About Me
 
-[cite_start]Dedicated Cybersecurity student building a strong IT foundation through hands-on learning[cite: 8]. [cite_start]Currently focused on **incident response, threat analysis, and network defense**[cite: 72]. [cite_start]As part of my training, I am developing skills in operating systems, networking, troubleshooting, and cybersecurity best practices[cite: 71, 72]. [cite_start]I have a growing passion for how systems work and how to secure them, specifically enjoying labs involving **log analysis and cloud-based threat detection**[cite: 73].
+Dedicated Cybersecurity student building a strong IT foundation through hands-on learning. I am currently focused on furthering my expertise in **networking, cloud, and cyber security** one project at a time.
 
-[cite_start]My goal is to protect organizations from evolving cyber threats through proactive detection and continuous improvement[cite: 136].
+My core focus areas include **incident response, threat analysis, and network defense**. I have a growing passion for how systems work and how to secure them, specifically enjoying labs involving **log analysis and cloud-based threat detection**.
+
+As part of my formal training, I am developing skills in operating systems, troubleshooting, and cybersecurity best practices while pursuing a **Cybersecurity Certificate with eCornell**, **Red Hat training at Bronx Community College**, and **Cyber Security and Networking with The Knowledge House**.
 
 ---
 
 ## 💡 Technical Skills
 
-<p align="center">
-    [![My Skills](https://skillicons.dev/icons?i=linux,kali,windows,aws,python,bash,powershell,git,docker,vscode,github)](https://skillicons.dev)
-</p>
-
-[cite_start]**Core Focus Areas** [cite: 77]
-* [cite_start]Security Operations (SIEM, Log Analysis, Incident Response) [cite: 78]
-* [cite_start]Network Security (Firewalls, IDS/IPS, Wireshark, Nmap, Snort) [cite: 79]
-* [cite_start]Cloud Security (AWS, Security Best Practices for Cloud) [cite: 80]
-* [cite_start]Scripting & Automation (Python, Bash, PowerShell) [cite: 82]
+<div align="center">
+    [![My Skills](https://skillicons.dev/icons?i=linux,kali,windows,aws,azure,python,bash,powershell,git,docker,vscode,github,terraform,nmap,wireshark)](https://skillicons.dev)
+    <br>
+    
+    **Core Focus Areas:** Security Operations (SOC), Cloud Security (AWS/Azure), Network Defense (IDS/IPS), Incident Response, Infrastructure as Code (IaC), Scripting.
+</div>
 
 ---
 
@@ -41,17 +44,14 @@
 | *CompTIA Security+ Prep* | *![Security+ Prep](https://img.shields.io/badge/Security+-blue)* | *Currently In Progress* |
 
 ---
+## 📂 Pinned Projects Showcase
 
-## 📂 Featured Projects (3-5 Total Required)
-
-[cite_start]*This table will showcase your 3-5 required portfolio repositories[cite: 19]. Once you create your first project, update this section!*
-
-| Project | Description | Tools |
+| Project Title | Core Focus | Key Tools & Skills |
 | :--- | :--- | :--- |
-| **[Project 1 Title]** | [cite_start]*Built a Splunk-based SIEM to detect brute-force and beaconing patterns[cite: 94].* | Splunk, Sysmon, Zeek |
-| **[Project 2 Title]** | [cite_start]*Deployed a segmented network using pfSense & Suricata[cite: 97].* | pfSense, Suricata, Wireshark |
-| **[Project 3 Title]** | [cite_start]*Simulated EC2 Compromise & Remediated with GuardDuty and Security Hub[cite: 45].* | GuardDuty, Security Hub, Lambda |
-| **[Link to Your Project]** | [cite_start]*Documented a VirtualBox Networking Node Cluster with step-by-step setup and screenshots[cite: 45].* | VirtualBox, Windows/Linux Nodes |
+| **[AI Triage Classifier](https://github.com/saracena26/AI-Triage)** | **AI/ML & Automation:** Local LLM Deployment (Llama 3.2), Healthcare Triage Classification, Scripting. | Llama 3.2 3B Instruct (LLM), Python, Classification Logic, Data Analysis. |
+| **[AWS Attack & Defense Range](https://github.com/saracena26/AWS-Attack-and-Defense-Range)** | **Cloud Security:** Infrastructure as Code (IaC), Cloud IR, Detection & Logging. | AWS (VPC, CloudWatch, Flow Logs), Terraform, Kali Linux, MITRE ATT&CK. |
+| **[SQL Injection Defense & Analysis](https://github.com/saracena26/SQL-Injection-Defense-Analysis-Lab)** | **Web & Defensive Security:** Full Red/Blue Team operation, SIEM Event Analysis. | Wazuh SIEM, Snort IDS, SQLmap, John The Ripper, Burp Suite, Network Defense. |
+| **[Linux Node Cluster & Virtual Networking](https://github.com/saracena26/Linux-Node-Cluster-and-Virtual-Networking)** | **Networking & SysAdmin:** Network Segmentation, Secure Configuration, C2 via SSH. | VirtualBox, Ubuntu Server, Netplan, Bash, SSH, IP/Networking. |
 
 ---
 
