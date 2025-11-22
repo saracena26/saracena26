@@ -26,7 +26,7 @@ So I practice them often.
 - **Cloud-based threat detection**
 - **Understanding systems deeply, not just using them, but knowing how and why they work**
 
-My learning path blends hands-on labs, real attack/defense demos, and structured **currently** training through:
+My learning path blends hands-on labs, real attack/defense demos, and structured training through:
 
 🛡️ **The Knowledge House – Cyber Security & Networking Track**
 🐧 **Bronx Community College – Red Hat Linux Training**  
