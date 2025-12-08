@@ -139,6 +139,6 @@ https://github.com/saracena26/SQL-Injection-Defense-Analysis-Lab
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sheniese-a-baez)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/saracena26/)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/s.aracena26)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/sab0115)
 
 ---
