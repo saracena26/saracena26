@@ -28,9 +28,13 @@ So I practice them often.
 
 My learning path blends hands-on labs, real attack/defense demos, and structured training through:
 
-🛡️ **The Knowledge House – Cyber Security & Networking Track**
-🐧 **Bronx Community College – Red Hat Linux Training**  
-📘 **eCornell – Cybersecurity Certificate**  
+🛡️ **The Knowledge House – Cyber Security & Networking Track - Completed 12/2025**
+
+🐧 **Bronx Community College – Red Hat Linux Training - Completed 04/2026**
+
+📘 **eCornell – Cybersecurity Certificate - Completed 05/2026** 
+
+:snake: **Crash Course on Python - Google/Coursera certificate - In progess**
 
 ---
 
@@ -58,7 +62,12 @@ I’m sharpening my skillset in a few key areas with a heavy focus on the fundam
 ### 🤖 AI (in a supporting role)
 - Running local models and integrating them into workflows  
 - Understanding how AI interacts with infrastructure  
-- Applying AI *on top of* strong networking/security fundamentals  
+- Applying AI *on top of* strong networking/security fundamentals
+
+### :snake: Python 
+- Revisiting Python basics and scripting
+- Automating with Python
+- Cloud basics with Python integration
 
 ---
 
@@ -120,8 +129,8 @@ https://github.com/saracena26/SQL-Injection-Defense-Analysis-Lab
 | AWS Cloud Practitioner | ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-black) | https://www.credly.com/badges/d979968c-5928-44cf-9eb0-a3191a3572f9 |
 | CompTIA A+ | ![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-red) | https://www.credly.com/badges/d6af07d3-5d41-4613-b033-62b6e8e58427 |
 | Cisco Network Basics | ![Cisco Network Basics](https://img.shields.io/badge/Cisco_Network_Basics-blue) | https://www.credly.com/badges/2360e583-9b43-4cba-930b-9f0eb44bab14 |
-| *CompTIA Security+ Prep* | ![Sec+](https://img.shields.io/badge/Security+-blue) | *In Progress* |
-
+| Google IT Support Professional Certificate | ![Google IT Support Certificate](https://img.shields.io/badge/Google_IT_Support-Professional_Certificate-4285F4?style=flat&logo=google&logoColor=white) | https://www.credly.com/badges/97900550-5be6-432d-97f2-1eeb5833302d/public_url |
+| BICSI Installer 1® INST1® | ![BICSI Installer 1](https://img.shields.io/badge/BICSI%20Installer%201%C2%AE-INST1%C2%AE-007788?style=flat) | https://www.credly.com/badges/87e27d24-b43d-451e-95f2-3c1d85a08d12/public_url |
 ---
 
 ## 📂 Pinned Projects Showcase
